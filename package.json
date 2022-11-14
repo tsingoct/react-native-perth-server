@@ -1,0 +1,26 @@
+{
+  "name": "react-native-perth-server",
+  "version": "1.0.0",
+  "description": "this is designed for magic tools",
+  "homepage": "https://github.com/tsingoct/react-native-perth-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-perth-server"
+  ],
+  "author": {
+    "name": "perth",
+    "email": "perth@example.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsingoct/react-native-perth-server.git"
+  },
+  "peerDependencies": {
+    "react": ">=16.13.1",
+    "react-native": ">=0.63.3"
+  }
+}
